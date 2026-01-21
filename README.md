@@ -1,5 +1,5 @@
 <!-- ================= HEADER TYPING EFFECT ================= -->
-# Hi 👋 My name is JTP.Codeing
+# Hi <img src = "https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" /> My name is JTP.Codeing
 <p align="center">
   <img src="https://avatars.githubusercontent.com/bigbossa" width="180" style="border-radius:50%;" />
   <img
@@ -114,6 +114,7 @@ I build real-world systems for actual business usage.
     alt="streak stats"
   />
 </p>
+
 
 
 
