@@ -1,9 +1,8 @@
 <!-- ================= HEADER TYPING EFFECT ================= -->
+# Hi 👋 My name is JTP.Codeing
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+bigbossa;Full-Stack+Developer;Web+%7C+API+%7C+Automation;Build+Real+Business+Systems"
-    alt="Typing SVG"
-  />
+  <img src="https://avatars.githubusercontent.com/bigbossa" width="180" style="border-radius:50%;" />
+</p>
 </p>
 <p align="center">
   <img
@@ -118,4 +117,5 @@ I build real-world systems for actual business usage.
     alt="streak stats"
   />
 </p>
+
 
