@@ -1,6 +1,12 @@
 <!-- ================= HEADER TYPING EFFECT ================= -->
 <p align="center">
   <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+bigbossa;Full-Stack+Developer;Web+%7C+API+%7C+Automation;Build+Real+Business+Systems"
+    alt="Typing SVG"
+  />
+</p>
+<p align="center">
+  <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=720&lines=Hi+👋+I'm+bigbossa;Full-Stack+Developer;Web+%7C+API+%7C+Automation;Build+Real+Business+Systems"
     alt="Typing SVG"
   />
@@ -112,3 +118,4 @@ I build real-world systems for actual business usage.
     alt="streak stats"
   />
 </p>
+
