@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   <img
-    src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=720&lines=Hi+👋+I'm+bigbossa;Full-Stack+Developer;Web+%7C+API+%7C+Automation;Build+Real+Business+Systems](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJteTMyNHhsd2w3NWo2dDE1eXRrejB4czNjbjBwbDYwYXk4Yng3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ifBColYSQBYy99Dldd/giphy.gif)"
+    src="[[https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=720&lines=Hi+👋+I'm+bigbossa;Full-Stack+Developer;Web+%7C+API+%7C+Automation;Build+Real+Business+Systems](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJteTMyNHhsd2w3NWo2dDE1eXRrejB4czNjbjBwbDYwYXk4Yng3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ifBColYSQBYy99Dldd/giphy.gif)](https://giphy.com/gifs/Mostapes-cat-kitty-mikitti-ifBColYSQBYy99Dldd)"
     alt="Typing SVG"
   />
 </p>
@@ -117,6 +117,7 @@ I build real-world systems for actual business usage.
     alt="streak stats"
   />
 </p>
+
 
 
 
