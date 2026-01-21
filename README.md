@@ -2,9 +2,6 @@
 # Hi 👋 My name is JTP.Codeing
 <p align="center">
   <img src="https://avatars.githubusercontent.com/bigbossa" width="180" style="border-radius:50%;" />
-</p>
-</p>
-<p align="center">
   <img
     src="https://media.tenor.com/BKA6WA2IvPUAAAAj/hi-there.gif"
     alt="Typing SVG"
@@ -117,6 +114,7 @@ I build real-world systems for actual business usage.
     alt="streak stats"
   />
 </p>
+
 
 
 
