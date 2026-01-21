@@ -1,60 +1,35 @@
-<h1 align="center">Hi 👋, I'm bigbossa</h1>
-<h3 align="center">Full-Stack Developer | Web & Automation</h3>
-
+<!-- HEADER TYPING EFFECT -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bigbossa&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+bigbossa;Full-Stack+Developer;Web+%7C+API+%7C+Automation;Build+Real+Business+Systems" />
+</p>
+
+<!-- PROFILE IMAGE -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/bigbossa" width="180" style="border-radius:50%;" />
+</p>
+
+<!-- ADVANCED VISITOR COUNTER -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bigbossa&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 <p align="center">
-I'm a developer from Thailand 🇹🇭 <br/>
-I build real-world web applications, internal systems, APIs, and automation tools.
+Developer from Thailand 🇹🇭 <br/>
+I build real-world systems: Web Apps, APIs, Automation, Dashboards.
 </p>
 
 <p align="center">
-🔹 Frontend & Backend <br/>
-🔹 API & System Integration <br/>
-🔹 Dashboard & Internal Tools
-</p>
-
----
-
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://instagram.com/jtpbigb" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" />
-  </a>
+🚀 Focus on clean architecture <br/>
+⚙️ Practical business solutions <br/>
+📊 Data-driven systems
 </p>
 
 ---
 
-### 🛠 Languages & Tools
+## 📌 Featured Projects
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,php,nodejs,react,vue,html,css,tailwind,bootstrap,java,cs,cpp" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,nginx,git,linux" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bigbossa&theme=darkhub&margin-w=15" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bigbossa&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigbossa&layout=compact&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bigbossa&theme=dark" />
-</p>
+  <a href="https://github.com/bigbossa/back_api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bigb
