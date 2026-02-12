@@ -82,7 +82,7 @@ I build real-world systems for actual business usage.
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://instagram.com/jtpbigb" target="_blank">
+  <a href="https://www.instagram.com/jtp_big_b/" target="_blank">
     <img
       src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"
       alt="instagram"
@@ -114,6 +114,7 @@ I build real-world systems for actual business usage.
     alt="streak stats"
   />
 </p>
+
 
 
 
