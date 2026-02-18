@@ -45,7 +45,7 @@ I build real-world systems for actual business usage.
 ## 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/bigbossa/back_api">
+  <a href="https://github.com/bigbossa/Ban-Phuttachad">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=bigbossa&repo=back_api&theme=dark"
       alt="back_api"
